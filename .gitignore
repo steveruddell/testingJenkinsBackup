@@ -1,0 +1,18 @@
+war/
+.java/
+hudson.model.UpdateCenter.xml
+hudson.plugins.git.GitTool.xml
+identity.key.enc
+init.groovy.d/
+jenkins.install.UpgradeWizard.state
+logs/tasks/Download metadata.log.1
+logs/tasks/Download metadata.log.2
+nodeMonitors.xml
+plugins/
+secret.key
+secret.key.not-so-secret
+secrets/
+updates/
+userContent/
+users/admin/config.xml
+.owner
