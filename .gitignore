@@ -17,3 +17,4 @@ userContent/
 users/admin/config.xml
 .owner
 hudson.plugins.emailext.ExtendedEmailPublisher.xml
+logs/tasks/Download metadata.log.3
