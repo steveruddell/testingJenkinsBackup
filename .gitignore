@@ -16,3 +16,4 @@ updates/
 userContent/
 users/admin/config.xml
 .owner
+hudson.plugins.emailext.ExtendedEmailPublisher.xml
